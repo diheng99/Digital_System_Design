@@ -1,0 +1,77 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sun Jan 21 17:36:05 2024
+# Process ID: 45236
+# Current directory: C:/Users/Di heng/Desktop/SCSE Y2S2/SC2103 Digital Systems Design/Lab/Lab 1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent45000 C:\Users\Di heng\Desktop\SCSE Y2S2\SC2103 Digital Systems Design\Lab\Lab 1\project_1.xpr
+# Log file: C:/Users/Di heng/Desktop/SCSE Y2S2/SC2103 Digital Systems Design/Lab/Lab 1/vivado.log
+# Journal file: C:/Users/Di heng/Desktop/SCSE Y2S2/SC2103 Digital Systems Design/Lab/Lab 1\vivado.jou
+# Running On: DESKTOP-65BOGKD, OS: Windows, CPU Frequency: 3693 MHz, CPU Physical cores: 12, Host memory: 17103 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Di heng/Desktop/SCSE Y2S2/SC2103 Digital Systems Design/Lab/Lab 1/project_1.xpr}
+update_compile_order -fileset sources_1
+add_files -fileset constrs_1 -norecurse {{C:/Users/Di heng/Desktop/SCSE Y2S2/SC2103 Digital Systems Design/Lab/Lab 1/_CE2003_Lab1_Student_version(4)/Lab1.xdc}}
+launch_simulation
+open_wave_config {C:/Users/Di heng/Desktop/SCSE Y2S2/SC2103 Digital Systems Design/Lab/Lab 1/lab1_FSM_tb_behav.wcfg}
+source lab1_FSM_tb.tcl
+restart
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run 10 ns
+run all
+relaunch_sim
+restart
+run all
+relaunch_sim
+run all
+relaunch_sim
+close_sim

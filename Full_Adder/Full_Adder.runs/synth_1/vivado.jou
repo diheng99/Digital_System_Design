@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Mon Jan 22 21:19:12 2024
+# Process ID: 49100
+# Current directory: C:/Users/Di heng/Documents/Full_Adder/Full_Adder.runs/synth_1
+# Command line: vivado.exe -log Full_Adder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Full_Adder.tcl
+# Log file: C:/Users/Di heng/Documents/Full_Adder/Full_Adder.runs/synth_1/Full_Adder.vds
+# Journal file: C:/Users/Di heng/Documents/Full_Adder/Full_Adder.runs/synth_1\vivado.jou
+# Running On: DESKTOP-65BOGKD, OS: Windows, CPU Frequency: 3693 MHz, CPU Physical cores: 12, Host memory: 17103 MB
+#-----------------------------------------------------------
+source Full_Adder.tcl -notrace
